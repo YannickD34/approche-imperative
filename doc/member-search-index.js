@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"fr.boucles","c":"ExerciceBoucleBase","l":"ExerciceBoucleBase()","url":"%3Cinit%3E()"},{"p":"fr.boucles","c":"ExerciceBoucleBase","l":"main(String[])","url":"main(java.lang.String[])"}]
